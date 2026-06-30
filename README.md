@@ -1,5 +1,5 @@
 ### Hello Welcome to My 2024 Makecode Arcade -pvppppvvp
->How far did i come that surprise isn't
+>#### How far did i come that surprise isn't
 >this is archive for my project you'll find alot of my old project like this no worries 
 ><br>
 >Yes most of them are not even work and some it an edit code i can't remember
@@ -9,7 +9,8 @@
 
 
 ## Use as Extension
-
+<details>
+<summary>Extension</summary>
 This repository can be added as an **extension** in MakeCode.
 
 * open [https://arcade.makecode.com/](https://arcade.makecode.com/)
@@ -25,3 +26,4 @@ This repository can be added as an **extension** in MakeCode.
 
 * for PXT/arcade
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+<details>
